@@ -8,4 +8,4 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-skobalo)
 
-_"Turning ideas into reality through code."_ ✨  
+_"Turning ideas into reality through code."_  
