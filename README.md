@@ -1,4 +1,4 @@
-# Hi, I'm Volodymyr 👨‍💻  
+# Hi, I'm Volodymyr 
 
 **3rd-year Computer Science student**  
 **Proficient in C++, C#, and Python, with a strong focus on continuous learning and development**  
