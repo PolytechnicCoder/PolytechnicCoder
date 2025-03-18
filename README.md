@@ -2,7 +2,7 @@
 
 **3rd-year Computer Science student**  
 
-**Proficient in Python C#, and C++, with a strong focus on continuous learning and development**  
+**Proficient in Python, C#, and C++, with a strong focus on continuous learning and development**  
 
 **Building personal projects to enhance problem-solving and software engineering skills**  
 
