@@ -7,11 +7,6 @@
 **3rd-year Computer Science student**  
 
 **Proficient in Python, C#, and C++, with a strong focus on continuous learning and development**  
-<p>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=blue" />
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" />
-</p>
 
 **Building personal projects to enhance problem-solving and software engineering skills**  
 
