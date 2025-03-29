@@ -1,5 +1,5 @@
 <p align="center">
- ![Cyberpunk GIF by Cyberpunk Edgerunners](https://github.com/user-attachments/assets/4aa56dbb-0e60-4c62-976f-1a589ce3256a) alt="Banner" width="100%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/4aa56dbb-0e60-4c62-976f-1a589ce3256a" alt="Banner" width="100%" height="250"/>
 </p>
 
 ## Hi, I'm Volodymyr 👨‍💻 
