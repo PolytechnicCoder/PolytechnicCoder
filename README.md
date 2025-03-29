@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
+</p>
+
 # Hi, I'm Volodymyr 👨‍💻 
 
 **3rd-year Computer Science student**  
