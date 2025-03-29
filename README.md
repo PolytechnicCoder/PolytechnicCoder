@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyazUwenJjbmo4ZXdkbGx0Ync1dTI1eXJ0ZnZ2Y3YxZXR5MzduZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Banner" width="100%" height="250"/>
 </p>
-# Hi, I'm Volodymyr 👨‍💻 
+#Hi, I'm Volodymyr 👨‍💻 
 
 **3rd-year Computer Science student**  
 
