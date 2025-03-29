@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://chat.openai.com/mnt/data/resized_banner.gif" alt="Banner" />
+</p>
 # Hi, I'm Volodymyr 👨‍💻 
 
 **3rd-year Computer Science student**  
