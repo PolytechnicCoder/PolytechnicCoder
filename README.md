@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chat.openai.com/mnt/data/resized_banner.gif" alt="Banner" />
+  <img src="[https://chat.openai.com/mnt/data/resized_banner.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUyazUwenJjbmo4ZXdkbGx0Ync1dTI1eXJ0ZnZ2Y3YxZXR5MzduZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif)" alt="Banner" />
 </p>
 # Hi, I'm Volodymyr 👨‍💻 
 
